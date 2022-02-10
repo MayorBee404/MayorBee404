@@ -1,4 +1,4 @@
-## Hi there I am Abiyansa👋
+## Hi there, I am Abiyansa👋
 
 ### I'm a Software Engineering Student and Mobile Developer
 
@@ -6,9 +6,13 @@
 - 💬 Ask me about Android Developer and Programming
 - ⚡ Fun fact: Im a Student
 
-### Language and Tools :
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+ <p align="left">
+<a href="https://github.com/MayorBee404">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayorBee404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayorBee404&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Contact Me :
  <a href="https://www.linkedin.com/in/abiyans/">
@@ -17,12 +21,6 @@
 <a href="mailto:bagss69@gmail.com">
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  
- <p align="left">
-<a href="https://github.com/MayorBee404">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayorBee404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayorBee404&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <!--
 **MayorBee404/MayorBee404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
