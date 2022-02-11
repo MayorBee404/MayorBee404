@@ -3,7 +3,7 @@
 ### I'm a Software Engineering Student and Mobile Developer
 
 - 🌱 I’m currently learning Institute Teknologi Telkom Surabaya
-- 💬 Ask me about Android Developer and Programming
+- 💬 Ask me about Android Developer and Gadget
 - ⚡ Fun fact: Im a Student
 
 
