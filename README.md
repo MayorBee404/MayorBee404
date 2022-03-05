@@ -3,7 +3,7 @@
 ### I'm a Software Engineering Student and Mobile Developer
 
 - 🌱 I’m currently learning Mobile Programming
-- 💬 Ask me about Android Developer and Gadget
+- 💬 Ask me about Android Developer and Gadget Technology
 - ⚡ Fun fact: Im a Student
 
 
