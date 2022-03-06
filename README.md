@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Mobile Programming
 - 💬 Ask me about Android Developer and Gadget Technology
-- ⚡ Fun fact: Im a Student
+- ⚡ Fun fact: Im still Single
 
 
 <p align="left">
@@ -20,6 +20,9 @@
 !["google.com"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:bagss69@gmail.com">
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+### Visitor :
+![Visitor Count](https://profile-counter.glitch.me/MayorBee404/count.svg)
  
 
 <!--
