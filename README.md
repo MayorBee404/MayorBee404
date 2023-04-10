@@ -1,9 +1,9 @@
 ## Hi there, I am Abiyansa👋
 
-### I'm a Software Engineering Student and Mobile Developer
+### I'm a Software Engineering and Mobile Developer
 
-- 🌱 I’m currently learning Mobile Programming
-- 💬 Ask me about Android Developer and Gadget Technology
+- 🌱 I’m currently learning Mobile Developer
+- 💬 Ask me about Android Developer and Software Engineer
 - ⚡ Fun fact: Im still Single
 
 
