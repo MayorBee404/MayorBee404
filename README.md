@@ -14,6 +14,17 @@
 </a>
 </p>
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/OS-mac-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
+    <img src="https://img.shields.io/badge/Text%20Editor-vs%20code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Design-figma-blue?&logo=Figma" />
+  
+</p>
+
+
 ### Contact Me :
  <a href="https://www.linkedin.com/in/abiyans/">
   
