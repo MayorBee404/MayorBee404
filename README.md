@@ -6,7 +6,16 @@
 - 💬 Ask me about Android Developer and Software Engineer
 - ⚡ Fun fact: Im still Single
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/OS-mac-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
+    <img src="https://img.shields.io/badge/Text%20Editor-vs%20code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Design-figma-blue?&logo=Figma" />
+</p>
 
+### Skills:
 <p align="left">
 <a href="https://github.com/MayorBee404">
   <img width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayorBee404&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,25 +25,13 @@
 </a>
 </p>
 
-
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/OS-mac-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
-    <img src="https://img.shields.io/badge/Text%20Editor-vs%20code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Design-figma-blue?&logo=Figma" />
-  
-</p>
-
-
 ### Contact Me :
  <a href="https://www.linkedin.com/in/abiyans/">
   
 !["google.com"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:bagss69@gmail.com">
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
+
 ### Visitor :
 ![Visitor Count](https://profile-counter.glitch.me/MayorBee404/count.svg)
  
