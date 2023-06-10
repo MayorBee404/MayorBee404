@@ -11,11 +11,9 @@
 <a href="https://github.com/MayorBee404">
   <img width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayorBee404&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="270px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayorBee404&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
-</a>
-
 <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayorbee404&hide_border=true&theme=algolia">
-
-<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mayorbee404&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@mayorbee404)
+<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mayorbee404&layout=compact&hide_border=true&theme=algolia">
+</a>
 </p>
 
 
