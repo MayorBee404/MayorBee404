@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/IDE-x code-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-vs%20code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Design-figma-blue?&logo=Figma" />
-    
+    <img src="https://wakatime.com/badge/user/c39b1d54-7c3f-4a54-b156-0bf7d39c528e.svg" alt="WakaTime" />
 </p>
 
 ### Skills:
