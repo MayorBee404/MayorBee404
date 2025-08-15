@@ -35,9 +35,7 @@
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Visitor :
-![Visitor Count](https://profile-counter.glitch.me/MayorBee404/count.svg)
- 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/MayorBee404)
 <!--
 **MayorBee404/MayorBee404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
